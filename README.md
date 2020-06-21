@@ -3,7 +3,7 @@ Made my own portfolio website
 
 *Link:* https://gunasethu.netlify.app/
 
-## Preview
+## Preview:
 ![](2020-06-20%2023_53_59-.png)
 
 ## About Website

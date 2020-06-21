@@ -16,4 +16,4 @@ Learned HTML and CSS basics. To test and pracise them I've created a simple Port
 
 ---
 
-*Thanks folks for taking time and seeing my website!
+*Thanks folks for taking time and seeing my website!*
